@@ -1,0 +1,6 @@
+plugin:
+    name: 'Multimoneda'
+    description: 'Plugin to add currency to Shopaholic products'
+    author: 'Marlon Freire'
+    icon: oc-icon-dollar
+    homepage: ''
